@@ -389,107 +389,147 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[ML3AWD1500-1]]></ID>
-	<name><![CDATA[MAMMOTION LUBA 3 AWD 1500 robotska kosilnica]]></name>
+	<ID><![CDATA[MLMINI2AWD1500-1]]></ID>
+	<name><![CDATA[MAMMOTION LUBA Mini 2 AWD 1500 robotska kosilnica + garaža + stojalo]]></name>
 	<description><![CDATA[
-	<p>Popeljite nego vaše trate na višjo raven z LUBA 3 AWD 1500, zmogljivo, popolnoma avtomatizirano robotsko kosilnico, zasnovano za sodobne vrtove. Brez mejnih žic, brez zapletene nastavitve – samo natančnost, moč in popoln nadzor z vašega telefona.</p>
-	<p>Zahvaljujoč naprednemu sistemu Tri-Fusion (360° LiDAR + NetRTK + AI Vision) podjetja Mammotion, LUBA ustvari natančen zemljevid vaše trate in se orientira z natančnostjo na centimetre. V realnem času zazna ovire in se brez težav prilagodi vašemu okolju.</p>
-	<p>Z pogonom na vsa kolesa (AWD) z lahkoto obvladuje naklone do 80 % (38,6°) in neraven teren – popolno za kompleksne vrtove, kjer standardne kosilnice odpovedo.</p>
+	<p>Popeljite nego vaše trate na višjo raven z LUBA Mini 2 AWD 1500, kompaktno in zmogljivo robotsko kosilnico, zasnovano za sodobne vrtove do 1500 m². Brez mejnih žic, brez zapletene namestitve – samo pametna avtomatizacija, natančnost in popoln nadzor prek telefona.</p>
+
+	<p>Zahvaljujoč napredni 360° LiDAR navigaciji in Dual AI Vision kameram LUBA Mini 2 ustvari natančen zemljevid trate ter se orientira z izjemno natančnostjo. V realnem času zaznava ovire in optimizira poti košnje za maksimalno učinkovitost.</p>
+
+	<p>Napreden AWD pogon na vsa kolesa omogoča premagovanje naklonov do 80 % (38,6°) ter brezhibno vožnjo po zahtevnem in neravnem terenu, kjer običajne robotske kosilnice odpovedo.</p>
+
+	<p>Dvojni rezalni sistem omogoča čist in natančen rez, medtem ko aplikacija omogoča popoln nadzor nad višino košnje, conami ter urniki delovanja.</p>
 	]]></description>
+
 	<specifications><![CDATA[
 	<ul>
 		<li>Vrsta izdelka: robotska kosilnica</li>
 		<li>Brez mejne žice</li>
-		<li>Tri-Fusion navigacija (360° LiDAR + NetRTK + AI Vision)</li>
-		<li>Natančnost pozicioniranja: ±1 cm</li>
+		<li>360° LiDAR + Dual AI Vision navigacija</li>
 		<li>AWD pogon na vsa kolesa</li>
 		<li>Premaguje naklone do 80 % (38,6°)</li>
-		<li>Dvojni rezalni diski s 6 rezili</li>
-		<li>Nastavljiva višina reza</li>
+		<li>Dvojni rezalni diski</li>
+		<li>Samodejna nastavitev višine reza</li>
 		<li>Upravljanje več con prek aplikacije</li>
-		<li>Več kot 2 uri delovanja</li>
-		<li>9,4 Ah litij-ionska baterija</li>
+		<li>DropMow funkcija</li>
+		<li>Pametno zaznavanje ovir</li>
+		<li>Bluetooth, Wi-Fi in 4G povezljivost</li>
+		<li>6,1 Ah litij-ionska baterija</li>
 		<li>Samodejno vračanje na polnilno postajo</li>
-		<li>Zaznavanje več kot 300 vrst ovir</li>
+		<li>Primerno za površine do 1500 m²</li>
 	</ul>
 	]]></specifications>
+
 	<link><![CDATA[https://nbot-shop.com/products/mammotion-luba-mini-awd-1500]]></link>
-	<mainImage><![CDATA[https://nbot-shop.com/cdn/shop/files/1-600x600.jpg?v=1776839271&width=600]]></mainImage>
+
+	<mainImage><![CDATA[https://nbot-shop.com/cdn/shop/files/61hS3JNA4UL._AC_SL1500.jpg?v=1779365880&width=823]]></mainImage>
+
 	<moreImages><![CDATA[
-	https://nbot-shop.com/cdn/shop/files/3-600x600.jpg?v=1776839271&width=600
-	https://nbot-shop.com/cdn/shop/files/2-600x600.jpg?v=1776839271&width=600
-	https://nbot-shop.com/cdn/shop/files/4-600x600.jpg?v=1776839271&width=600
+	https://nbot-shop.com/cdn/shop/files/71mJ_3Vuj6L._AC_SL1500.jpg?v=1779365880&width=823
+	https://nbot-shop.com/cdn/shop/files/81hR9HPcGEL._AC_SL1500.jpg?v=1779365880&width=823
+	https://nbot-shop.com/cdn/shop/files/81SAD7cJXwL._AC_SL1500.jpg?v=1779365881&width=823
 	]]></moreImages>
+
 	<videoUrl><![CDATA[]]></videoUrl>
-	<price>2.300,00</price>
-	<regularPrice>2.500,00</regularPrice>
+
+	<price>2.000,00</price>
+	<regularPrice>2.762,00</regularPrice>
+
 	<curCode>EUR</curCode>
+
 	<stockText><![CDATA[Po naročilu]]></stockText>
 	<stock><![CDATA[upon order]]></stock>
+
 	<inStoreAvailability>
 		<store><![CDATA[N-Bot Shop, Jenkova cesta 19, 3320 Velenje]]></store>
 		<availability>Po naročilu</availability>
 		<quantity></quantity>
 	</inStoreAvailability>
+
 	<fileUnder><![CDATA[Dom & Vrt - Vrtna oprema - Robotske kosilnice]]></fileUnder>
+
 	<cenCategoryId></cenCategoryId>
+
 	<brand><![CDATA[Mammotion]]></brand>
+
 	<EAN><![CDATA[]]></EAN>
 	<CUIN><![CDATA[]]></CUIN>
-	<productCode><![CDATA[ML3AWD1500-1]]></productCode>
-	<productModel><![CDATA[LUBA 3 AWD 1500]]></productModel>
+
+	<productCode><![CDATA[MLMINI2AWD1500-1]]></productCode>
+	<productModel><![CDATA[LUBA Mini 2 AWD 1500]]></productModel>
+
 	<condition><![CDATA[new]]></condition>
+
 	<warranty><![CDATA[2 leti]]></warranty>
+
 	<coupon></coupon>
 	<couponCode></couponCode>
-	<gift></gift>
+	<gift><![CDATA[Vključena mini garaža in čistilno stojalo]]></gift>
+
 	<deliveryCost>15,00</deliveryCost>
-	<deliveryTimeMin>14</deliveryTimeMin>
+	<deliveryTimeMin>21</deliveryTimeMin>
 	<deliveryTimeMax>21</deliveryTimeMax>
+
 	<groupId></groupId>
+
 	<attributes>
 		<gender></gender>
+
 		<color><![CDATA[bela / črna / rumena]]></color>
+
 		<size></size>
 		<ageGroup></ageGroup>
+
 		<attribute>
 			<name><![CDATA[Vrsta izdelka]]></name>
 			<values>
 				<value><![CDATA[Robotska kosilnica]]></value>
 			</values>
 		</attribute>
+
 		<attribute>
 			<name><![CDATA[Površina košnje]]></name>
 			<values>
 				<value><![CDATA[do 1500 m²]]></value>
 			</values>
 		</attribute>
+
 		<attribute>
 			<name><![CDATA[Navigacija]]></name>
 			<values>
 				<value><![CDATA[360° LiDAR]]></value>
-				<value><![CDATA[NetRTK]]></value>
-				<value><![CDATA[AI Vision]]></value>
+				<value><![CDATA[Dual AI Vision]]></value>
 			</values>
 		</attribute>
+
 		<attribute>
 			<name><![CDATA[Pogon]]></name>
 			<values>
 				<value><![CDATA[AWD / pogon na vsa kolesa]]></value>
 			</values>
 		</attribute>
+
 		<attribute>
 			<name><![CDATA[Funkcije]]></name>
 			<values>
 				<value><![CDATA[Brez mejne žice]]></value>
 				<value><![CDATA[Več consko upravljanje]]></value>
 				<value><![CDATA[Pametno zaznavanje ovir]]></value>
+				<value><![CDATA[DropMow funkcija]]></value>
 			</values>
 		</attribute>
+
 		<attribute>
 			<name><![CDATA[Največji naklon]]></name>
 			<values>
 				<value><![CDATA[80 %]]></value>
+			</values>
+		</attribute>
+
+		<attribute>
+			<name><![CDATA[Baterija]]></name>
+			<values>
+				<value><![CDATA[6,1 Ah litij-ionska]]></value>
 			</values>
 		</attribute>
 	</attributes>
